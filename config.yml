@@ -1,0 +1,22 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: 👨🏻‍💻 Dev Bits
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: Dev Bits
+    Content: >
+      Prepare to explore the exciting world of software architecture. 
+
+      - **DevBits** is my personal blog about software architecture, electronics
+      and puzzles 🤩 
+
+      - Do give a 🌟 on Github !
+    socialIcons:
+      - name: github
+        url: 'https://github.com/adityatelange/hugo-PaperMod'
+      - name: KoFi
+        url: 'https://ko-fi.com/adityatelange'
+      - name: RsS
+        url: 'index.xml'
